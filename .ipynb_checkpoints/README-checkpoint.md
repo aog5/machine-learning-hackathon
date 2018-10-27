@@ -22,36 +22,12 @@ __***This is a collection of resources for the Hackathon hosted by Williams Coll
 * MastersInDatascience
 * TowardsDataScience
 
-## Memberships (with student membership tiers)
+## Memberships
 * ACM or IEEE
 	* safari books online
 	* skillsoft
 	* books24
 * Data Science Meetups
-
-### Conferences
-* O'Reilly Strata Data Conference
-* O'Reilly AI Conference
-* Academic conferences:
-    * Through special interest groups in ACM/IEEE
-        * KDD - Special interest group for Knowledge and Data Discovery
-        
-### Books
-* Hands On Machine Learning with Scikit-Learn and TensorFlow
-* Python Machine Learning
-
-### Online Courses
-* Udacity
-    * Machine Learning Nanodegree
-    * Data Science Nanodegree
-    * Deep Learning Nanodegree
-* Udemy
-    * Jose Portilla's Courses on machine learning and data science
-    * 
-
-### Helpful Coursework (especially important for systems design and data engineering)
-* Algorithm Design
-* Analysis of Algorithms
 
 ### Career Paths
 * What Is Data Science? https://www.safaribooksonline.com/library/view/doing-data-science/9781449363871/ch01.html
