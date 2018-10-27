@@ -1,5 +1,19 @@
-# machine-learning-hackathon
-This is a collection of resources for the Hackathon hosted by Williams College
+__***This is a collection of resources for the Hackathon hosted by Williams College***__
+
+# Machine Learning Resources
+## websites:
+* www.kaggle.com
+* www.udacity.com
+* ocw.mit.edu
+* www.datacamp.com
+* www.oreilly.com
+
+## memberships
+* ACM or IEEE
+	* safari books online
+	* skillsoft
+	* books24
+* Data Science Meetups
 
 ### Career Paths
 * What Is Data Science? https://www.safaribooksonline.com/library/view/doing-data-science/9781449363871/ch01.html
