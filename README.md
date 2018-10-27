@@ -4,11 +4,23 @@ __***This is a collection of resources for the Hackathon hosted by Williams Coll
 ## websites:
 * www.kaggle.com
 * www.udacity.com
-* ocw.mit.edu
 * www.datacamp.com
+* www.Dataquest.io
 * www.oreilly.com
+* http://scikit-learn.org/stable/index.html
 
-## memberships
+## Blogs, Newsletters & Podcasts
+* O'Reilly Data Podcast
+* O'Reilly Data Newsletter
+* DataCamp podcast
+* Datacamp Blog
+* Data Engineering Podcast
+* https://www.podcastinit.com/ Podcast.__init__ – The Podcast About Python and the People Who ...
+* EliteDataScience
+* MastersInDatascience
+* TowardsDataScience
+
+## Memberships
 * ACM or IEEE
 	* safari books online
 	* skillsoft
@@ -76,42 +88,42 @@ Lessons learned turning machine learning models into real products and services 
 * Scalable Machine Learning (Part 1)  https://tomaugspurger.github.io/scalable-ml-01.html
 * Scalable Machine Learning (Part 2): Partial Fit  https://tomaugspurger.github.io/
 * Machine Learning in Real Life: Tales from the Trenches to the Cloud – Part 1  https://www.kdnuggets.com/2017/06/machine-learning-real-life-tales-1.html
-Machine Learning in Real Life (Part 2)  https://medium.com/@alienelf/machine-learning-in-real-life-part-2-5fdbc88bb14a
-Square off: Machine learning libraries  https://www.oreilly.com/ideas/square-off-machine-learning-libraries
-Your Checklist to Get Data Science Implemented in Production  https://www.kdnuggets.com/2017/06/dataiku-checklist-data-science-implemented-production.html
-How to build a data science pipeline  https://towardsdatascience.com/how-to-build-a-data-science-pipeline-f24341848045
-From Data to Deployment – Full Stack Data Science  http://engineering.indeedblog.com/talks/data-to-deployment/
-End-to-end Multi-Label Classification using PySpark and AWS EMR  https://towardsdatascience.com/end-to-end-multi-label-classification-using-pyspark-and-aws-emr-bdd4389b7586
-Torus for Docker-First Data Science  https://www.kdnuggets.com/2018/05/torus-docker-first-data-science.html
-We need to build machine learning tools to augment machine learning engineers  https://www.oreilly.com/ideas/we-need-to-build-machine-learning-tools-to-augment-machine-learning-engineers
-Free E-Book: A Developer’s Guide to Building AI Applications  https://blogs.technet.microsoft.com/machinelearning/2018/06/04/free-e-book-a-developers-guide-to-building-ai-applications/
-Learn How to Code and Deploy Machine Learning Models on Spark Structured Streaming  https://towardsdatascience.com/learn-how-to-code-and-deploy-machine-learning-models-on-structured-streaming-868b4081d242
-Productionizing ML with workflows at TwitterProductionizing ML with workflows at Twitter  https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html
-Data Science for Startups: Model Production  https://towardsdatascience.com/data-science-for-startups-model-production-b14a29b2f920  
+* Machine Learning in Real Life (Part 2)  https://medium.com/@alienelf/machine-learning-in-real-life-part-2-5fdbc88bb14a
+* Square off: Machine learning libraries  https://www.oreilly.com/ideas/square-off-machine-learning-libraries
+* Your Checklist to Get Data Science Implemented in Production  https://www.kdnuggets.com/2017/06/dataiku-checklist-data-science-implemented-production.html
+* How to build a data science pipeline  https://towardsdatascience.com/how-to-build-a-data-science-pipeline-f24341848045
+* From Data to Deployment – Full Stack Data Science  http://engineering.indeedblog.com/talks/data-to-deployment/
+* End-to-end Multi-Label Classification using PySpark and AWS EMR  https://towardsdatascience.com/end-to-end-multi-label-classification-using-pyspark-and-aws-emr-bdd4389b7586
+* Torus for Docker-First Data Science  https://www.kdnuggets.com/2018/05/torus-docker-first-data-science.html
+* We need to build machine learning tools to augment machine learning engineers  https://www.oreilly.com/ideas/we-need-to-build-machine-learning-tools-to-augment-machine-learning-engineers
+* Free E-Book: A Developer’s Guide to Building AI Applications  https://blogs.technet.microsoft.com/machinelearning/2018/06/04/free-e-book-a-developers-guide-to-building-ai-applications/
+* Learn How to Code and Deploy Machine Learning Models on Spark Structured Streaming  https://towardsdatascience.com/learn-how-to-code-and-deploy-machine-learning-models-on-structured-streaming-868b4081d242
+* Productionizing ML with workflows at TwitterProductionizing ML with workflows at Twitter  https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html
+* Data Science for Startups: Model Production  https://towardsdatascience.com/data-science-for-startups-model-production-b14a29b2f920  
 
-Project Portfolio & Tech Blog
-HOW TO START YOUR FIRST DATA SCIENCE PROJECT  https://www.districtdatalabs.com/how-to-start-your-first-data-science-project/
-8 Fun Machine Learning Projects for Beginners  https://elitedatascience.com/machine-learning-projects-for-beginners
-5 Data Science Projects That Will Get You Hired in 2018  https://www.kdnuggets.com/2018/06/5-data-science-projects-hired.html
-Building a data science portfolio  https://www.dataquest.io/blog/data-science-portfolio-project/
-Preparing Your Data Science Resume & Portfolio  https://towardsdatascience.com/preparing-your-data-science-resume-portfolio-22af6bada8b9
-The key to building a data science portfolio that will get you a job  https://www.dataquest.io/blog/build-a-data-science-portfolio/
-Why side projects are so damn important  https://medium.freecodecamp.org/why-side-projects-are-so-damn-important-239ba37209e
-How to Build a Data Science Portfolio  https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c
-Building A Data Science Portfolio Project Bottom Up  https://www.datascienceweekly.org/articles/building-a-data-science-portfolio-project-bottom-up
-Building A Data Science Portfolio Project Top Down  https://www.datascienceweekly.org/articles/building-a-data-science-portfolio-project-top-down
-Advice to aspiring data scientists: start a blog  http://varianceexplained.org/r/start-blog/
-Creating and Hosting a Personal Site on GitHub  http://jmcglone.com/guides/github-pages/
-GitHub Is Your Resume Now  https://anti-pattern.com/github-is-your-resume-now
-How to present your data science portfolio on GitHub  https://www.dataquest.io/blog/how-to-share-data-science-portfolio/
-Data Scientist Resume Projects  https://blog.statsbot.co/data-scientist-resume-projects-806a74388ae6
-How to choose a project to practice data science  http://www.sharpsightlabs.com/blog/choose-project-practice-data-science/
-How to Start a Data Science Project in Python  https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python
-17 Ultimate Data Science Projects To Boost Your Knowledge and Skills (& can be accessed freely) https://www.analyticsvidhya.com/blog/2016/10/17-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
-24 Ultimate Data Science Projects To Boost Your Knowledge and Skills (& can be accessed freely)  https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
-Open Source Guides  https://opensource.guide/
-Every developer should have a blog. Here’s why, and how to stick with it.  https://medium.freecodecamp.org/every-developer-should-have-a-blog-heres-why-and-how-to-stick-with-it-5fd55a247fbf
-DIY Deep Learning Projects  https://towardsdatascience.com/diy-deep-learning-projects-c2e0fac3274f
-Cookiecutter Data Science  https://drivendata.github.io/cookiecutter-data-science/  
+### Project Portfolio & Tech Blog
+* HOW TO START YOUR FIRST DATA SCIENCE PROJECT  https://www.districtdatalabs.com/how-to-start-your-first-data-science-project/
+* 8 Fun Machine Learning Projects for Beginners  https://elitedatascience.com/machine-learning-projects-for-beginners
+* 5 Data Science Projects That Will Get You Hired in 2018  https://www.kdnuggets.com/2018/06/5-data-science-projects-hired.html
+* Building a data science portfolio  https://www.dataquest.io/blog/data-science-portfolio-project/
+* Preparing Your Data Science Resume & Portfolio  https://towardsdatascience.com/preparing-your-data-science-resume-portfolio-22af6bada8b9
+* The key to building a data science portfolio that will get you a job  https://www.dataquest.io/blog/build-a-data-science-portfolio/
+* Why side projects are so damn important  https://medium.freecodecamp.org/why-side-projects-are-so-damn-important-239ba37209e
+* How to Build a Data Science Portfolio  https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c
+* Building A Data Science Portfolio Project Bottom Up  https://www.datascienceweekly.org/articles/building-a-data-science-portfolio-project-bottom-up
+* Building A Data Science Portfolio Project Top Down  https://www.datascienceweekly.org/articles/building-a-data-science-portfolio-project-top-down
+* Advice to aspiring data scientists: start a blog  http://varianceexplained.org/r/start-blog/
+* Creating and Hosting a Personal Site on GitHub  http://jmcglone.com/guides/github-pages/
+* GitHub Is Your Resume Now  https://anti-pattern.com/github-is-your-resume-now
+* How to present your data science portfolio on GitHub  https://www.dataquest.io/blog/how-to-share-data-science-portfolio/
+* Data Scientist Resume Projects  https://blog.statsbot.co/data-scientist-resume-projects-806a74388ae6
+* How to choose a project to practice data science  http://www.sharpsightlabs.com/blog/choose-project-practice-data-science/
+* How to Start a Data Science Project in Python  https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python
+* 17 Ultimate Data Science Projects To Boost Your Knowledge and Skills (& can be accessed freely) https://www.analyticsvidhya.com/blog/2016/10/17-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+* 24 Ultimate Data Science Projects To Boost Your Knowledge and Skills (& can be accessed freely)  https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+* Open Source Guides  https://opensource.guide/
+* Every developer should have a blog. Here’s why, and how to stick with it.  https://medium.freecodecamp.org/every-developer-should-have-a-blog-heres-why-and-how-to-stick-with-it-5fd55a247fbf
+* DIY Deep Learning Projects  https://towardsdatascience.com/diy-deep-learning-projects-c2e0fac3274f
+* Cookiecutter Data Science  https://drivendata.github.io/cookiecutter-data-science/  
 
 
